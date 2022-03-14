@@ -11,7 +11,7 @@ const (
 	ClusterCredentialsHost                                            = 512
 	ClusterCredentialsKubeConfig                                      = 65000
 	ClusterCredentialsKubeConfigContext                               = 64
-	ClusterCredentialsServiceaccountBearerToken                       = 128
+	ClusterCredentialsServiceaccountBearerToken                       = 12
 	ClusterCredentialsServiceaccountNs                                = 128
 	GitopsEngineClusterGitopsengineclusterId                          = 48
 	GitopsEngineInstanceGitopsengineinstanceId                        = 48
