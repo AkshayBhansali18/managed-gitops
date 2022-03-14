@@ -14,10 +14,10 @@ const (
 	ClusterCredentialsServiceaccountBearerToken                       = 128
 	ClusterCredentialsServiceaccountNs                                = 128
 	GitopsEngineClusterGitopsengineclusterId                          = 48
+	GitopsEngineClusterClustercredentialsId                           = 48
 	GitopsEngineInstanceGitopsengineinstanceId                        = 48
 	GitopsEngineInstanceNamespaceName                                 = 48
 	GitopsEngineInstanceNamespaceUid                                  = 48
-	GitopsEngineClusterClustercredentialsId                           = 48
 	GitopsEngineInstanceEngineclusterId                               = 48
 	ManagedEnvironmentManagedenvironmentId                            = 48
 	ManagedEnvironmentName                                            = 256
